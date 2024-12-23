@@ -23,9 +23,9 @@ Welcome to my Github page! I am Davide and I am currently finishing my Computer 
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Dino-996&show_icons=true&hide_border=true" />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+  <code><img width="10%" src="https://github.com/user-attachments/assets/278f6141-1aad-464f-8bc1-889c617417c6"></code>
+  <code><img width="10%" src="https://github.com/user-attachments/assets/d5a24fed-7a32-4727-b5cc-798d09683c0b"></code>
+  <code><img width="10%" src="https://github.com/user-attachments/assets/52f64bee-d95f-4d16-9310-4deca0c29601"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
@@ -33,5 +33,5 @@ Welcome to my Github page! I am Davide and I am currently finishing my Computer 
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 </p>
