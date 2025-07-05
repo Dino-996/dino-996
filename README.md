@@ -1,4 +1,4 @@
-### 👋 Ciao, sono Davide Sabia — Full Stack Developer
+### 👋 Ciao, sono Davide — Full Stack Developer
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Dino-996)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidesabia)
