@@ -1,37 +1,55 @@
-### Hi there 👋
-### This is Dino-996!
+### 👋 Ciao, sono Davide Sabia — Full Stack Developer
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Dino-996)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidesabia)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davidesabia22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidesabia)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davidesabia22@gmail.com)
 
-Welcome to my Github page! I am Davide and I am currently finishing my Computer Science degree at the university of Basilicata!
+---
 
-<img align="right" alt="img" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" height="auto" />
+Sono un **Full Stack Developer** con principale esperienza su **Angular**, **TypeScript** e **Java**. Progetto e sviluppo applicazioni web **scalabili**, **accessibili** e **performanti**, con particolare attenzione alla qualità del codice e all’esperienza utente.
 
+Mi occupo sia di frontend che di backend, integrando UI moderne con architetture robuste e manutenibili.
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Science Degree 
-- Take online courses on web programming languages ​​and artificial intelligence
+---
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 2 hours a day
-- Exercising 3 days a week
-- Improving my CV with some practice apart from university
+### 🛠️ Stack Tecnologico
 
-#### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Dino-996&show_icons=true&hide_border=true" />
-  <code><img width="10%" src="https://github.com/user-attachments/assets/278f6141-1aad-464f-8bc1-889c617417c6"></code>
-  <code><img width="10%" src="https://github.com/user-attachments/assets/d5a24fed-7a32-4727-b5cc-798d09683c0b"></code>
-  <code><img width="10%" src="https://github.com/user-attachments/assets/52f64bee-d95f-4d16-9310-4deca0c29601"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" /></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" /></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" /></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" /></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" /></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" /></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" /></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" /></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" /></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" /></code>
 </p>
+
+---
+
+### 🔍 In cosa mi sto specializzando
+
+- 🧩 Architetture Angular moderne con **Componenti Standalone**, **Signals** e **View Transitions**
+- ⚡ Ottimizzazione SEO e performance con **Angular SSR** e strategie di **precaricamento**
+- ☁️ Backend serverless con **Firebase**, **Cloud Functions** e integrazione con API AI (Google Gemini)
+
+---
+
+### 📈 Statistiche GitHub
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dino-996&show_icons=true&theme=default&hide_border=true" />
+
+---
+
+### 📫 Contatti
+
+Cerchi un collaboratore per il tuo prossimo progetto? Vuoi discutere di tecnologie web, UI/UX o backend Java?  
+Scrivimi o aggiungimi su LinkedIn!
+
+> 📧 davidesabia22@gmail.com  
+> 💼 [linkedin.com/in/davidesabia](https://www.linkedin.com/in/davidesabia)
+
+
