@@ -6,9 +6,9 @@
 
 ---
 
-Sono un **Full Stack Developer** con principale esperienza su **Angular**, **TypeScript** e **Java**. Progetto e sviluppo applicazioni web **scalabili**, **accessibili** e **performanti**, con particolare attenzione alla qualità del codice e all’esperienza utente.
+Sono un **code lover** con principale esperienza su **Angular**, **TypeScript** e **Java**. Progetto e sviluppo applicazioni web **scalabili**, **accessibili** e **performanti**, con particolare attenzione alla qualità del codice e all’esperienza utente.
 
-Mi occupo sia di frontend che di backend, integrando UI moderne con architetture robuste e manutenibili.
+Mi occupo sia di frontend che di backend, cerco di integrare UI moderne con architetture robuste e manutenibili.
 
 ---
 
@@ -30,14 +30,6 @@ Mi occupo sia di frontend che di backend, integrando UI moderne con architetture
 
 ---
 
-### 🔍 In cosa mi sto specializzando
-
-- 🧩 Architetture Angular moderne con **Componenti Standalone**, **Signals** e **View Transitions**
-- ⚡ Ottimizzazione SEO e performance con **Angular SSR** e strategie di **precaricamento**
-- ☁️ Backend serverless con **Firebase**, **Cloud Functions** e integrazione con API AI (Google Gemini)
-
----
-
 ### 📈 Statistiche GitHub
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dino-996&show_icons=true&theme=default&hide_border=true" />
@@ -46,10 +38,10 @@ Mi occupo sia di frontend che di backend, integrando UI moderne con architetture
 
 ### 📫 Contatti
 
-Cerchi un collaboratore per il tuo prossimo progetto? Vuoi discutere di tecnologie web, UI/UX o backend Java?  
+Cerchi un collaboratore per il tuo prossimo progetto? Vuoi discutere di tecnologie web, UI/UX o backend Java/C#?  
 Scrivimi o aggiungimi su LinkedIn!
 
 > 📧 davidesabia22@gmail.com  
-> 💼 [linkedin.com/in/davidesabia](https://www.linkedin.com/in/davidesabia)
+> 💼 [linkedin.com/in/davidesabia-dev](https://www.linkedin.com/in/davidesabia-dev)
 
 
