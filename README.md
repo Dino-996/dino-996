@@ -6,7 +6,7 @@
 
 ---
 
-Sono un **code lover** con principale esperienza su **Angular**, **TypeScript** e **Java**. Progetto e sviluppo applicazioni web **scalabili**, **accessibili** e **performanti**, con particolare attenzione alla qualità del codice e all’esperienza utente.
+Ho esperienza su **Angular**, **TypeScript** e **Java**. Progetto e sviluppo applicazioni web **scalabili**, **accessibili** e **performanti**, con particolare attenzione alla qualità del codice e all’esperienza utente.
 
 Mi occupo sia di frontend che di backend, cerco di integrare UI moderne con architetture robuste e manutenibili.
 
