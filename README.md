@@ -37,9 +37,6 @@ Mi occupo sia di frontend che di backend, cerco di integrare UI moderne con arch
 
 ### 📫 Contatti
 
-Cerchi un collaboratore per il tuo prossimo progetto? Vuoi discutere di tecnologie web, UI/UX o backend Java/C#?  
-Scrivimi o aggiungimi su LinkedIn!
-
 > 📧 davidesabia22@gmail.com  
 > 💼 [linkedin.com/in/davidesabia-dev](https://www.linkedin.com/in/davidesabia-dev)
 
