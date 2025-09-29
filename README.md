@@ -37,6 +37,6 @@ Mi occupo sia di frontend che di backend, cerco di integrare UI moderne con arch
 ### 📫 Contatti
 
 > 📧 davidesabia22@gmail.com  
-> 💼 [linkedin.com/in/davidesabia-dev](https://www.linkedin.com/in/davidesabia-dev)
+> 💼 [linkedin.com/in/davidesabia](https://www.linkedin.com/in/davidesabia)
 
 
